@@ -63,3 +63,11 @@
 // let Hieght = "29kg"
 
 // console.log(age == 90 || name === "David" && Hieght === "29kg")
+
+// const distinction = 79
+// if(distinction >= 75){
+//     console.log('I am qualified')
+// }
+//     else{
+//         console.log('I am not qualified')
+    }

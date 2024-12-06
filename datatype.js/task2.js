@@ -21,3 +21,30 @@
 // else {
 //     console.log('Scalene')
 // }
+
+// let Day = 1
+
+// while (Day <=200){
+//     if (Day === 1){
+//         console.log(Day + ' day')
+//     }
+// else {
+//     console.log(Day + ' days')
+// }
+// Day = Day + 1
+// }
+
+// for (let Theoddones = 1; Theoddones <=50; Theoddones++){
+//     if (Theoddones % 2 === 1){
+//         console.log(Theoddones)
+//     }
+    
+// }
+
+// let Theevenones = 1
+
+// while (Theevenones <=50){
+//     if (Theevenones % 2 === 0){
+//         console.log(Theevenones)
+//     } Theevenones++
+// }

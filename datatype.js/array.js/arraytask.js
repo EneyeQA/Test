@@ -2,6 +2,6 @@ const freinds = ["Mustafa", "Mutasim", "Musa", "Muhammed", "Mahmud"]
 
 console.log(freinds)
 
-let BestFriend = freinds[4]
+let bestFriend = freinds[4]
 
-console.log(BestFriend + " is my best freind")
+console.log(bestFriend + " is my best freind")

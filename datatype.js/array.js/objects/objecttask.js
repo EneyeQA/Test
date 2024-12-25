@@ -1,35 +1,35 @@
-// TASK 1
+// // TASK 1
 
-const books = {title: "Object methods", 
-        description:"Method as a function of key-value pair", 
-        numberOfPages: 79, 
-        authour: "Suleiman"
-}
+// const books = {title: "Object methods", 
+//         description:"Method as a function of key-value pair", 
+//         numberOfPages: 79, 
+//         authour: "Suleiman"
+// }
 
-console.log(books.description)  
-
-
+// console.log(books.description)  
 
 
 
 
-// TASK 2
-const books = {title: "Object methods", 
-        description:"Method as a function of key-value pair", 
-        numberOfPages: 200, 
-        authour: "Suleiman", 
-        readingStatus: false,
-        toggleReadingStatus: function(){
-            if(books.readingStatus === true){
-                books.readingStatus = false
-            } else {
-                books.readingStatus = true
-            }
-        }
-}
 
-books.toggleReadingStatus()
-console.log(books.description)
+
+// // TASK 2
+// const books = {title: "Object methods", 
+//         description:"Method as a function of key-value pair", 
+//         numberOfPages: 200, 
+//         authour: "Suleiman", 
+//         readingStatus: false,
+//         toggleReadingStatus: function(){
+//             if(books.readingStatus === true){
+//                 books.readingStatus = false
+//             } else {
+//                 books.readingStatus = true
+//             }
+//         }
+// }
+
+// books.toggleReadingStatus()
+// console.log(books.description)
 
 
 
